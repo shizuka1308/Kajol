@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Machine Learning projects/repo, React/Node projects and Data Science for good projects.
 - 🤔 I’m looking for opportunity to gain Software Development experience.
 - 🤝 How to connect with me: kajol@buffalo.edu | [LinkedIn](https://linkedin.com/in/kajol-1308)
-- 😄 Here's my portfolio website: [kajol.github.io](https://kajol.github.io)
+- 😄 Here's my portfolio website: [kajol.github.io](https://shizuka1308.github.io)
 
 <br>
 
