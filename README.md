@@ -3,7 +3,7 @@
 ## Hi there 👋
 [![Linkedin: kajol](https://img.shields.io/badge/-kajol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kajol-1308/)](https://www.linkedin.com/in/kajol-1308/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shizuka1308.github.io/)](https://shizuka1308.github.io/)
-- 🔭 I’m currently doing my Masters in CSE at State University Of New York, Buffalo.
+- 🔭 I’m currently working as a Full Stack Developer Intern at Comprehend PT (Physical Therapy -focused AI Scribe Startup).
 - 🌱 I’m always trying learn new things in Python, Javascript and Machine Learning.
 - 👯 I’m looking to collaborate on Machine Learning projects/repo, React/Node projects and Data Science for good projects.
 - 🤔 I’m looking for opportunity to gain Software Development experience.
